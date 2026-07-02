@@ -22,6 +22,16 @@ Cyberduck is a beginner-friendly cybersecurity learning repository. It collects 
 5. Use `checklists/` during assessments and hardening
 6. Try labs in `labs/` only in local or authorized environments
 
+
+## Code tools
+
+Defensive helper scripts are available in `tools/` and documented in `docs/tools.md`.
+Run local validation with:
+
+```bash
+scripts/run_checks.sh
+```
+
 ## Ethics
 
 This repository is for defensive learning, awareness, and authorized testing only. Do not attack, scan, or exploit third-party systems without written permission.
