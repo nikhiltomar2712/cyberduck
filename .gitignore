@@ -3,3 +3,5 @@
 *.log
 reports/private/
 loot/
+__pycache__/
+*.py[cod]
