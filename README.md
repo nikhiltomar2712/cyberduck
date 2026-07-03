@@ -13,14 +13,27 @@ Cyberduck is a beginner-friendly cybersecurity learning repository. It collects 
 - Hardening guides
 - Practice labs and report templates
 
-## Learning path
+## Learning path (recommended)
 
-1. Start with `docs/fundamentals.md`
-2. Review `docs/networking-basics.md`
-3. Practice safe command-line workflows in `docs/linux-security.md`
-4. Study web risks in `docs/web-security.md`
-5. Use `checklists/` during assessments and hardening
-6. Try labs in `labs/` only in local or authorized environments
+1. Start with `docs/` overview:
+   - `docs/fundamentals.md`
+   - `docs/linux-security.md`
+   - `docs/networking-basics.md`
+   - `docs/web-security.md`
+   - `docs/threat-modeling.md`
+2. Follow the full phased roadmap in `learning-paths/`:
+   - `learning-paths/phase-0-mindset-setup.md`
+   - `learning-paths/phase-1-foundations.md`
+   - `learning-paths/phase-2-core-defensive-skills.md`
+   - `learning-paths/phase-3-web-and-network-security.md`
+   - `learning-paths/phase-4-advanced-topics-specializations.md`
+   - `learning-paths/phase-5-hands-on-labs-projects-portfolio.md`
+   - `learning-paths/phase-6-certification-job-readiness.md`
+3. Use `checklists/` during assessments and hardening.
+4. Try labs in `labs/` only in local or authorized environments.
+
+Track progress in `progress-tracker.md`.
+
 
 
 ## Code tools
