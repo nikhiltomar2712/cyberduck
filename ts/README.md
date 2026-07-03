@@ -21,3 +21,4 @@ npm test
 \n# Commit batch marker 2
 \n# Commit batch marker 3
 \n# Commit batch marker 4
+\n# Commit batch marker 5
