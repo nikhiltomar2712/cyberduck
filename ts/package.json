@@ -1,0 +1,16 @@
+{
+  "name": "cyberduck-ts-defensive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node ./dist/test/run_tests.js"
+
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.6.3"
+  }
+}
+
